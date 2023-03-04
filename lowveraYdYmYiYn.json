@@ -2,6 +2,6 @@
 {
 "username" : "admin666"
 "password" : "admin"
-"device" : "00"
+"device" : "00" //allowed device
 }
 ]
