@@ -1,7 +1,2 @@
-[
-{
-"username" : "admin666"
-"password" : "admin"
-"device" : "OPPO CPH2083" //allowed devices
-}
-]
+[{"username" : "admin666" "password" : "admin"
+"device" : "OPPO CPH2083"}]
