@@ -2,10 +2,25 @@
 {
 "username" : "admin666",
 "password" : "admin",
-"device" : 
-[
-"OPPO CPH2083", 
-"vivo vivo 1713"
-]
+"device1" : "OPPO CPH2083", 
+"device2" : "vivo vivo 1713",
+"device3" : " null ",
+"device4" : "NKMODS OPZ",
+"device5" : "NKMODS 666 OPZ",
+"device6" : "NKMODS OFC",
+"device7" : "NKMODS IOS",
+"device8" : "REDMI",
+"device9" : "IPHONE 6S",
+"device10" : "IPHONE 11 PRO",
+"device11" : "NOTHING",
+"device12" : "IQ",
+"device13" : "NOKIA",
+"device14" : "SAMSUNG S22 ULTRA",
+"device15" : "BLACKBERRY",
+"device16" : "ONE PLUS",
+"device17" : "POCO X3",
+"device18" : "POCO X3 PRO",
+"device19" : "MOTO",
+"device20" : "REALME"
 }
 ]
