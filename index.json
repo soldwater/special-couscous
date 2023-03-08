@@ -24,7 +24,7 @@
 "status" : "UNPATCH ✔️",
 "date" : "01/03/23",
 "note_status" : "false",
-"note" : " ",
+"note" : "",
 "note_title" : " ",
 "note_ok" : " ",
 "note_tost" : " "
@@ -43,5 +43,67 @@
 "note_title" : "Note:",
 "note_ok" : "Thanks",
 "note_tost" : "Enjoy 😌✨"
+},
+{
+"item" : "INSTAGRAM",
+"bin" : "518093825994xxxx",
+"fecha" : "01/24",
+"ccv" : "RND",
+"ip" : "JAPAN🇯🇵",
+"link" : "https://instagram.com",
+"status" : "UNPATCH ✔️",
+"date" : "08/03/23",
+"note_status" : "false",
+"note" : " ",
+"note_title" : " ",
+"note_ok" : " ",
+"note_tost" : " "
+},
+{
+"item" : "BIN CANVA",
+"bin" : "528935701380xxxx",
+"fecha" : "10/27",
+"ccv" : "RND",
+"ip" : "USA🇺🇲",
+"link" : "https://www.canva.com",
+"status" : "UNPATCH ✔️",
+"date" : "08/03/23",
+"note_status" : "false",
+"note" : " ",
+"note_title" : " ",
+"note_ok" : " ",
+"note_tost" : " "
+},
+{
+"item" : "APPLE TV & APPLE MUSIC",
+"bin" : "539150885345xxxx",
+"fecha" : "01/29",
+"ccv" : "RND",
+"ip" : "Oman🇴🇲",
+"link" : "https://www.apple.com/om/",
+"status" : "UNPATCH ✔️",
+"date" : "08/03/23",
+"note_status" : "false",
+"note" : " ",
+"note_title" : " ",
+"note_ok" : " ",
+"note_tost" : " "
+},
+{
+"item" : "CRUNCHYROLL",
+"bin" : "483561044121xxxx",
+"fecha" : "06/24",
+"ccv" : "RND",
+"ip" : "NEW ZEALAND🇳🇿",
+"link" : "https://www.crunchyroll.com",
+"status" : "UNPATCH ✔️",
+"date" : "08/03/23",
+"note_status" : "true",
+"note" : "CVV: PUT 0000
+ZIPCODE: 00000
+Only use VPN at Payment time | VPN - NEW ZEALAND",
+"note_title" : "NOTE:",
+"note_ok" : "ok, thanks",
+"note_tost" : "ohh, welcome🤗"
 }
 ]
