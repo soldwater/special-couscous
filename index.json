@@ -210,9 +210,9 @@ Associate live and click cancel, let live rest for 1/2 hours and test purchases.
 "status" : "UNPATCH ✔️",
 "date" : "08/03/23",
 "note_status" : "true",
-"note" : "NOTE:",
-"note_title" : "Go to inspect elements and make Cvv 0000 and 
+"note" : "Go to inspect elements and make Cvv 0000 and 
 Zip code 00000",
+"note_title" : "NOTE:",
 "note_ok" : "OK",
 "note_tost" : "Gööd luck!"
 },
@@ -246,7 +246,7 @@ IP: USA OR YOUR OWN",
 
 2. Try Both Trial and Purchase :)",
 "note_title" : "NOTE:",
-"note_ok" : "K",
+"note_ok" : "OK",
 "note_tost" : "ENJOY :)"
 }
 ]
