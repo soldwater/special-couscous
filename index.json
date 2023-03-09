@@ -23,11 +23,13 @@
 "link" : "https://pay.google.com",
 "status" : "UNPATCH ✔️",
 "date" : "01/03/23",
-"note_status" : "false",
-"note" : "",
-"note_title" : " ",
-"note_ok" : " ",
-"note_tost" : " "
+"note_status" : "true",
+"note" : "ADDRESS: STREET 666
+TOWN/CITY: New York
+STATE: New York",
+"note_title" : "ADDITIONAL:",
+"note_ok" : "THANKS",
+"note_tost" : "OH WELCOME!"
 },
 {
 "item" : "YT PREMIUM",
