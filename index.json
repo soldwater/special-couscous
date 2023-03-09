@@ -213,5 +213,21 @@ Associate live and click cancel, let live rest for 1/2 hours and test purchases.
 Zip code 00000",
 "note_ok" : "OK",
 "note_tost" : "Gööd luck!"
+},
+{
+"item" : "PARAMOUNT +",
+"bin" : "480704956046xxxx",
+"fecha" : "06/2028",
+"ccv" : "RND",
+"ip" : "USA🇺🇲",
+"link" : "https://www.paramountplus.com",
+"status" : "UNPATCH ✔️",
+"date" : "09/03/23",
+"note_status" : "true",
+"note" : "ONLY TRAILS
+IP: USA OR YOUR OWN",
+"note_title" : "NOTE:",
+"note_ok" : "OK",
+"note_tost" : "GOOD LUCK✨"
 }
 ]
