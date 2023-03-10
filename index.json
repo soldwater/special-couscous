@@ -129,7 +129,7 @@ IF ITS NOT WORK YOU GO ON TELEGRAM PREMIUM BOT TRY TO PURCHASE FROM THERE",
 "ccv" : "RND",
 "ip" : "NEW ZEALAND🇳🇿",
 "link" : "https://www.crunchyroll.com",
-"status" : "UNPATCH ✔️",
+"status" : "PATCHED ❌",
 "date" : "08/03/23",
 "note_status" : "true",
 "note" : "CVV: PUT 0000
@@ -207,7 +207,7 @@ Associate live and click cancel, let live rest for 1/2 hours and test purchases.
 "ccv" : "RND",
 "ip" : "SPAIN🇪🇸",
 "link" : "https://www.crunchyroll.com/es-es",
-"status" : "UNPATCH ✔️",
+"status" : "PATCHED ❌",
 "date" : "08/03/23",
 "note_status" : "true",
 "note" : "Go to inspect elements and make Cvv 0000 and 
@@ -301,5 +301,20 @@ IP: USA OR YOUR OWN",
 "note_title" : "ADDITIONAL:",
 "note_ok" : "THANKS",
 "note_tost" : "k welcome :)"
+},
+{
+"item" : "CRUNCHYROLL",
+"bin" : "410588110307xxxx",
+"fecha" : "10/25",
+"ccv" : "0000",
+"ip" : "SOUTH AFRICA🇿🇦",
+"link" : "https://www.crunchyroll.com",
+"status" : "UNPATCH ✔️",
+"date" : "11/03/23",
+"note_status" : "true",
+"note" : "ZIP CODE: 0000",
+"note_title" : "ADDITIONAL:",
+"note_ok" : "ok",
+"note_tost" : "welcome"
 }
 ]
