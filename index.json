@@ -248,5 +248,24 @@ IP: USA OR YOUR OWN",
 "note_title" : "NOTE:",
 "note_ok" : "OK",
 "note_tost" : "ENJOY :)"
+},
+{
+"item" : "SPOTIFY PREMIUM",
+"bin" : "52130900000xxxxx",
+"fecha" : "12/29",
+"ccv" : "RND",
+"ip" : "ECUADOR",
+"link" : "http://www.spotify.com/premium",
+"status" : "UNPATCH ✔️",
+"date" : "10/03/23",
+"note_status" : "true",
+"note" : "Address: Calle atahualpa x
+🔖City: quito
+🔖Province: quito
+🔖ZIP CODE: EC250159
+🔖PHONE: 553246xxxx",
+"note_title" : "ADDITIONAL:",
+"note_ok" : "ok",
+"note_tost" : "welcome :)"
 }
 ]
