@@ -256,7 +256,7 @@ IP: USA OR YOUR OWN",
 "ccv" : "RND",
 "ip" : "USA🇺🇲",
 "link" : "pay.google.com",
-"status" : "UNPATCH ✔️",
+"status" : "PATCHED ❌",
 "date" : "09/03/23",
 "note_status" : "false",
 "note" : "",
@@ -282,5 +282,24 @@ IP: USA OR YOUR OWN",
 "note_title" : "ADDITIONAL:",
 "note_ok" : "ok",
 "note_tost" : "welcome :)"
+},
+{
+"item" : "AMAZON PRIME",
+"bin" : "520586009502xxxx",
+"fecha" : "07/26",
+"ccv" : "RND",
+"ip" : "USA🇺🇸",
+"link" : "https://www.primevideo.com",
+"status" : "UNPATCH ✔️",
+"date" : "11/03/23",
+"note_status" : "true",
+"note" : "⛩ STREET: 11748 Washington Pl
+⛩ CITY: Los Angeles
+⛩ STATE: California
+⛩ ZIP: 90066
+⛩ PHONE: (310) 398-0502",
+"note_title" : "ADDITIONAL:",
+"note_ok" : "THANKS",
+"note_tost" : "k welcome :)"
 }
 ]
