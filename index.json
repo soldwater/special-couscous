@@ -522,5 +522,50 @@ NOTE:
 "note_title" : "ADDITIONAL:",
 "note_ok" : "ok",
 "note_tost" : "welcome"
+},
+{
+"item" : "CRUNCHYROLL",
+"bin" : "476663461186xxxx",
+"fecha" : "04/27",
+"ccv" : "0000",
+"ip" : "ESPAÑA 🇪🇸",
+"link" : "http://www.crunchyroll.com/",
+"status" : "UNPATCH ✔️",
+"date" : "23/03/23",
+"note_status" : "true",
+"note" : "📤| ZIP CODE: 0000",
+"note_title" : "ADDITIONAL:",
+"note_ok" : "ok",
+"note_tost" : "welcome"
+},
+{
+"item" : "XBOX GAMEPASS ULTIMATE",
+"bin" : "532614620785xxxx",
+"fecha" : "01/27",
+"ccv" : "000",
+"ip" : "ISRAEL🇮🇱",
+"link" : "https://www.xbox.com",
+"status" : "UNPATCH ✔️",
+"date" : "23/03/23",
+"note_status" : "false",
+"note" : "",
+"note_title" : "",
+"note_ok" : "",
+"note_tost" : ""
+},
+{
+"item" : "SPOTIFY PREMIUM",
+"bin" : "557113426907xxxx",
+"fecha" : "11/25 or RND",
+"ccv" : "RND",
+"ip" : "Turquía🇹🇷",
+"link" : "https://www.spotify.com/tr-tr/premium",
+"status" : "UNPATCH ✔️",
+"date" : "23/03/23",
+"note_status" : "false",
+"note" : "",
+"note_title" : "",
+"note_ok" : "",
+"note_tost" : ""
 }
 ]
