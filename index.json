@@ -567,5 +567,20 @@ NOTE:
 "note_title" : "",
 "note_ok" : "",
 "note_tost" : ""
+},
+{
+"item" : "SPOTIFY PREMIUM",
+"bin" : "557113425954xxxx",
+"fecha" : "04/25",
+"ccv" : "RND",
+"ip" : "TÜRKIYE🇹🇷",
+"link" : "https://www.spotify.com/tr-en/premium",
+"status" : "UNPATCH ✔️",
+"date" : "24/03/23",
+"note_status" : "false",
+"note" : "",
+"note_title" : "",
+"note_ok" : "",
+"note_tost" : ""
 }
 ]
