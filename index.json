@@ -644,5 +644,24 @@ USE OLD ACCOUNT WITH HISTORY, BUY FROM THE AMAZON APP.",
 "note_title" : "",
 "note_ok" : "",
 "note_tost" : ""
+},
+{
+"item" : "AMAZON PRIME",
+"bin" : "415464440383xxxx",
+"fecha" : "10/23",
+"ccv" : "RND",
+"ip" : "BAHRAIN🇧🇭",
+"link" : "amazon.com",
+"status" : "UNPATCH ✔️",
+"date" : "25/03/23",
+"note_status" : "true",
+"note" : "📍Calle: street manama x
+📍Ciudad:manama
+📍Estado: manama
+📍Número: 17717165xxx
+📍Código postal: 323",
+"note_title" : "ADDITIONAL:",
+"note_ok" : "ok",
+"note_tost" : "ok"
 }
 ]
