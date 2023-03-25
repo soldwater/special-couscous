@@ -629,5 +629,20 @@ USE OLD ACCOUNT WITH HISTORY, BUY FROM THE AMAZON APP.",
 "note_title" : "ADDITIONAL:",
 "note_ok" : "thanks",
 "note_tost" : "yeh"
+},
+{
+"item" : "SPOTIFY PREMIUM",
+"bin" : "492964040023xxxx",
+"fecha" : "09/24",
+"ccv" : "RND",
+"ip" : "URUGUAY🇺🇾",
+"link" : "https://www.spotify.com/uy/premium/",
+"status" : "UNPATCH ✔️",
+"date" : "25/03/23",
+"note_status" : "false",
+"note" : "",
+"note_title" : "",
+"note_ok" : "",
+"note_tost" : ""
 }
 ]
