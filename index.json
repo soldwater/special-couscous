@@ -873,5 +873,35 @@ NO VPN JUST CHANGE THE COUNTRY TO TAIWAN AT THE TIME OF PAYMENT 🇹🇼",
 "note_title" : "NOTE:",
 "note_ok" : "thanks",
 "note_tost" : ":)"
+},
+{
+"item" : "PLAYSTORE SUBSCRIBE",
+"bin" : "514533500001xxxx",
+"fecha" : "02/28",
+"ccv" : "RND",
+"ip" : "CANADA🇨🇦",
+"link" : "pay.google.com",
+"status" : "UNPATCH ✔️",
+"date" : "05/04/23",
+"note_status" : "false",
+"note" : "",
+"note_title" : "",
+"note_ok" : "",
+"note_tost" : ""
+},
+{
+"item" : "[🔒] CHATGPT",
+"bin" : "490070034xxxxxx",
+"fecha" : "RND",
+"ccv" : "RND",
+"ip" : "USA🇺🇲",
+"link" : "chat.openai.com",
+"status" : "UNPATCH ✔️",
+"date" : "05/04/23",
+"note_status" : "false",
+"note" : "",
+"note_title" : "",
+"note_ok" : "",
+"note_tost" : ""
 }
 ]
