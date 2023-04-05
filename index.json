@@ -828,18 +828,33 @@ NO VPN JUST CHANGE THE COUNTRY TO TAIWAN AT THE TIME OF PAYMENT 🇹🇼",
 "note_tost" : ""
 },
 {
-"item" : "AMAZON PRIME & PRIME GAMING",
-"bin" : "416916084934xxxx",
-"fecha" : "03/27",
+"item" : "TWITCH BITS",
+"bin" : "461046029527xxxx",
+"fecha" : "11/27",
 "ccv" : "RND",
-"ip" : "MEXICO🇲🇽",
-"link" : "amazon.com",
+"ip" : "USA🇺🇲",
+"link" : "twitch.com",
 "status" : "UNPATCH ✔️",
 "date" : "05/04/23",
-"note_status" : "false",
-"note" : "",
-"note_title" : "",
-"note_ok" : "",
-"note_tost" : ""
+"note_status" : "true",
+"note" : "📌Change payment to Puerto Rico 🇵🇷",
+"note_title" : "NOTE:",
+"note_ok" : "Ok thanks",
+"note_tost" : "welcome 🤗"
+},
+{
+"item" : "DISNEY PLUS",
+"bin" : "461046029527xxxx",
+"fecha" : "11/27",
+"ccv" : "RND",
+"ip" : "USA🇺🇲",
+"link" : "disney.com",
+"status" : "UNPATCH ✔️",
+"date" : "05/04/23",
+"note_status" : "true",
+"note" : "📌Change payment to Puerto Rico 🇵🇷",
+"note_title" : "NOTE:",
+"note_ok" : "Ok thanks",
+"note_tost" : "welcome 🤗"
 }
 ]
