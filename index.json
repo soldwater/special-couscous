@@ -955,5 +955,20 @@ NO VPN JUST CHANGE THE COUNTRY TO TAIWAN AT THE TIME OF PAYMENT 🇹🇼",
 "note_title" : "Note & Additional",
 "note_ok" : "ok",
 "note_tost" : "thanks"
+},
+{
+"item" : "PLAY STORE",
+"bin" : "434256243958xxxx",
+"fecha" : "06/26",
+"ccv" : "RND",
+"ip" : "pay.google.com",
+"link" : "Philippines🇵🇭 (Change at checkout)",
+"status" : "UNPATCH ✔️",
+"date" : "07/04/23",
+"note_status" : "true",
+"note" : "✅Subscriptions and you can pull some purchase.",
+"note_title" : "NOTE:",
+"note_ok" : "Thanks",
+"note_tost" : "WELCOME!!!"
 }
 ]
